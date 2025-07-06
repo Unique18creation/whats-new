@@ -1,2 +1,2 @@
 # whats-new
-Knowing about how Github works. 
+Know how GitHub works. 
